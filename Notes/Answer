@@ -1,16 +1,9 @@
 Lab Day Quiz
 Due Jan 16 at 11:59pm
 Consider the following code segment:
- 
-
 a = input("Enter the value of a: ")
-
 b = input("Enter the value of b: ")
-
 print(a + b)
-
- 
-
 When this code segment is run the user enters 1 at the first prompt and 3 at the second prompt. The output displayed is:
 
 4
@@ -21,6 +14,7 @@ When this code segment is run the user enters 1 at the first prompt and 3 at the
 
 
 Quiz - Chapter 3
+Due Feb 10 at 5pm
 
 Question 24
 0 / 1 pts

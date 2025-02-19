@@ -1,0 +1,44 @@
+<!DOCTYPE html><html><body>
+
+<h1></h1>
+<p></p>
+<code></code>
+
+<h1>Lab Day Quiz</h1>
+<p>Due Jan 16 at 11:59pm</p>
+Consider the following code segment:
+<div><code>
+a = input("Enter the value of a: ")
+b = input("Enter the value of b: ")
+print(a + b)
+</code></div>
+When this code segment is run the user enters 1 at the first prompt and 3 at the second prompt. The output displayed is:
+
+4
+13
+1+3
+1 + 3
+
+
+
+Quiz - Chapter 3</h1>
+<p>Due Feb 10 at 5pm</p>
+
+<p>Question 24</p>
+0 / 1 pts
+<p>Which of the following checks to see if there is a comma anywhere in
+    the string variable |name|?</p>
+
+|if "," in name :|
+|if name.contains(",") :|
+|if "," not in name :|
+|if name.startswith(",") :|
+
+Correct Answer
+  1 
+You Answered
+  2 
+  3 
+  4 
+
+</body></html>

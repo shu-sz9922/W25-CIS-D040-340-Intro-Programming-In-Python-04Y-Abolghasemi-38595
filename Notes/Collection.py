@@ -14,6 +14,12 @@ When this code segment is run the user enters 1 at the first prompt and 3 at the
 1 + 3
 
 
+When the user enters "1" for "a" and "3" for "b", the output displayed will be "13". 
+Explanation:
+Input as strings:
+The input() function always returns a string, so even though the user enters numbers, "a" and "b" are stored as strings "1" and "3" respectively.
+
+
 
 Quiz - Chapter 3
 Due Feb 10 at 5pm

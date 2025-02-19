@@ -1,0 +1,9 @@
+Question 24
+0 / 1 pts
+Which of the following checks to see if there is a comma anywhere in
+    the string variable |name|?
+
+1 |if "," in name :|
+2 |if name.contains(",") :|
+3 |if "," not in name :|
+4 |if name.startswith(",") :|

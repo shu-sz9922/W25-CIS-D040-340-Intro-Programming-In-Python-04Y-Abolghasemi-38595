@@ -1,0 +1,40 @@
+Lab Day Quiz
+Due Jan 16 at 11:59pm
+Consider the following code segment:
+ 
+
+a = input("Enter the value of a: ")
+
+b = input("Enter the value of b: ")
+
+print(a + b)
+
+ 
+
+When this code segment is run the user enters 1 at the first prompt and 3 at the second prompt. The output displayed is:
+
+4
+13
+1+3
+1 + 3
+
+
+
+Quiz - Chapter 3
+
+Question 24
+0 / 1 pts
+Which of the following checks to see if there is a comma anywhere in
+    the string variable |name|?
+
+|if "," in name :|
+|if name.contains(",") :|
+|if "," not in name :|
+|if name.startswith(",") :|
+
+Correct Answer
+  1 
+You Answered
+  2 
+  3 
+  4 
